@@ -4,3 +4,5 @@ variables.env
 *.env
 .vscode
 src/generated
+src/migrations
+src/mikro-orm.config.ts
